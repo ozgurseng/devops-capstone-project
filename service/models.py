@@ -29,7 +29,7 @@ class PersistentBase:
     """Base class added persistent methods"""
 
     def __init__(self):
-        self.id = None  # pylint: disable=invalid-name
+        self.id = None
 
     def create(self):
         """
