@@ -1,9 +1,9 @@
 ---
 name: user story
 about: user story template
-title: ''
-labels: ''
-assignees: ''
+title: 'user story template '
+labels: documentation
+assignees: ozgurseng
 
 ---
 
