@@ -9,7 +9,7 @@ import os
 import logging
 from unittest import TestCase
 from tests.factories import AccountFactory
-from service.common import status  # HTTP Status Codes
+from service.common import status  # HTTP Status Code
 from service.models import db, Account, init_db
 from service.routes import app
 
